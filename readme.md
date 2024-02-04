@@ -12,7 +12,7 @@ Digite `npm install`
 
 ## Uso
 
-Para rodar os testes digite no terminal `npm run test``
+Para rodar os testes digite no terminal `npm run test`
 
 ## Participantes
 
